@@ -4,6 +4,6 @@ Though this site hosts short notes created as per academic sullabus of UGC for W
 
 ## checkout following subjects
 
-### [Java](https://shortnotes.github.io/Java
-### [FrontEnd](https://shortnotes.github.io/FrontEnd
-### [Rempte Sensing](https://shortnotes.github.io/RS
+### [Java](https://shortnotes.github.io/Java)
+### [FrontEnd](https://shortnotes.github.io/FrontEnd)
+### [Rempte Sensing](https://shortnotes.github.io/RS)
